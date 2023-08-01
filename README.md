@@ -1,6 +1,5 @@
 **Thread UI Clone with Flutter (Dart)**
 
-![ThreadClone UI ](thread_ui_clone_screenshot.png)
 
 ## Overview
 
@@ -27,12 +26,6 @@ This project is a Flutter app that showcases a pixel-perfect clone of the popula
 3. **Install Dependencies:** Run `flutter pub get` to install the required dependencies.
 
 4. **Run the App:** Use `flutter run` to launch the app on your connected device or emulator.
-
-## Screenshots
-
-| Home Screen | Chat Screen | Profile Screen |
-|:---:|:---:|:---:|
-| ![Home Screen](screenshots/home_screen.png) | ![Chat Screen](screenshots/chat_screen.png) | ![Profile Screen](screenshots/profile_screen.png) |
 
 ## Acknowledgments
 
