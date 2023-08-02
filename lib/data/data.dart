@@ -1,0 +1,53 @@
+List listThread() {
+  return [
+    {
+      'name': 'Binod',
+      'posted': '9 m',
+      'description': 'hEllo Threads,',
+      'image': '',
+      'profileImage': 'profile.jpg',
+      'replies': '120',
+      'likes': '203',
+      'replier': 'h2.jpg',
+      'replier2': 'p2.png',
+      'replier3': 'p3.jpg',
+    },
+    {
+      'name': 'The Econo-Savvy',
+      'posted': ' 24 m',
+      'description': '',
+      'image': 'p3.jpg',
+      'profileImage': 'p2.jpg',
+      'replies': '120',
+      'likes': '203',
+      'replier': 'h2.jpg',
+      'replier2': 'p2.png',
+      'replier3': 'p3.jpg',
+    },
+    {
+      'name': 'Rosa',
+      'posted': '9 m',
+      'description': 'hEllo dhaagebaazi ,',
+      'image': '',
+      'profileImage': 'profile.jpg',
+      'replies': '10',
+      'likes': '23',
+      'replier': 'h2.jpg',
+      'replier2': 'p2.png',
+      'replier3': 'profile.jpg',
+    },
+    {
+      'name': 'Bloomin' ' Onion News',
+      'posted': '45 m',
+      'description':
+          ' Tesla wants nearly 100 million dollars from the US to build an electric semi-truck charging route that stretches from the southern border of Texas to northern California',
+      'image': '',
+      'profileImage': 'profile.jpg',
+      'replies': '120',
+      'likes': '203',
+      'replier': 'h2.jpg',
+      'replier2': 'p2.png',
+      'replier3': 'p3.jpg',
+    },
+  ];
+}
