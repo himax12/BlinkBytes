@@ -26,6 +26,13 @@ This project is a Flutter app that showcases a pixel-perfect clone of the popula
 3. **Install Dependencies:** Run `flutter pub get` to install the required dependencies.
 
 4. **Run the App:** Use `flutter run` to launch the app on your connected device or emulator.
+  
+## Screenshots
+![WhatsApp Image 2023-08-10 at 19 33 18](https://github.com/himax12/Threads-clone/assets/122690580/612e6ce1-2c95-4e25-828e-0b8e6f8c7494)
+
+   
+![WhatsApp Image 2023-08-10 at 19 33 19](https://github.com/himax12/Threads-clone/assets/122690580/28f7e52b-ec1d-42d3-8921-b28c95d628cb)
+
 
 ## Acknowledgments
 
