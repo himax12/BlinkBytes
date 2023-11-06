@@ -1,4 +1,4 @@
-**Thread UI Clone with Flutter (Dart)**
+**Microbloggig App using Flutter (Dart)**
 
 
 ## Overview
