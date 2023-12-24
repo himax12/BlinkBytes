@@ -7,9 +7,9 @@ This project is a Flutter app that showcases a pixel-perfect clone of the popula
 
 ## Features
 
-- **Stunning UI Replication:** The app accurately mimics the UI elements of the Thread app, including its beautiful typography, color scheme, and layout.
+- **Stunning UI Replication:** The app accurately mimics the UI elements of the MicroBlogging app, including its beautiful typography, color scheme, and layout.
 
-- **Responsive Design:** The clone ensures a responsive layout, adapting gracefully to various screen sizes and orientations.
+- **Responsive Design:** The app ensures a responsive layout, adapting gracefully to various screen sizes and orientations.
 
 - **Interactive Navigation:** Users can navigate seamlessly through the app using custom animations and smooth transitions.
 
@@ -36,7 +36,7 @@ This project is a Flutter app that showcases a pixel-perfect clone of the popula
 
 ## Acknowledgments
 
-This project would not have been possible without the inspiration and design provided by the original Thread app. We acknowledge the Thread team's efforts in creating such a beautiful user interface.
+This project would not have been possible without the inspiration and design provided by the original Microblogging Apps. We acknowledge the Thread team's efforts in creating such a beautiful user interface.
 
 ## Contributions
 
